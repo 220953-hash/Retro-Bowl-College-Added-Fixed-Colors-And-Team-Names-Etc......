@@ -1,33 +1,33 @@
-uid	name	tla	conference	division	active	starting	colhelmet	colshirt	colpants	coltertiary	defense	offense	wins	losses	ties	roof	rainfall	snowfall	helmet	rival	academics	type	state	reputation
-32	Boston College	BC	4	0	1	0	$003366	$003366	$ffd700	$ffffff	3	1	0	0	0	0	40	89	0	33	1	0	MA y:1:0000
-33	Clemson	CLEM	14	0	1	0	$f56600	$f56600	$ffffff	$522d80	7	7	0	0	0	0	44	2	0	148	0	0	SC	y:1:1110
-34	Duke	DUKE	14	0	1	0	$003087	$003087	$ffffff	$ffffff	6	7	0	0	0	0	44	2	0	40	2	0	NC	y:1:0000
-35	Florida State	FSU	14	0	1	0	$782f40	$782f40	$ceb888	$ceb888	7	8	0	0	0	0	50	0	0	38	0	0	FL	y:1:0000
-36	Georgia Tech	GT	14	0	1	0	$b3a369	$b3a369	$ffffff	$000000	4	1	0	0	0	0	51	1	0	142	1	0	GA	y:1:0000
-37	Louisville	LOU	14	0	1	0	$c8102e	$c8102e	$000000	$ffffff	8	4	0	0	0	0	0	0	0	143	0	0	KY	y:1:0000
-38	Miami (FL)	MIA	14	0	1	0	$f47321	$f47321	$ffffff	$005030	5	3	0	0	0	0	59	0	0	35	0	0	FL	y:1:0000
-39	NC State	NCSU	14	0	1	0	$cc0000	$cc0000	$ffffff	$000000	8	3	0	0	0	0	44	2	0	40	0	0	NC	y:1:0000
-40	North Carolina	UNC	14	0	1	0	$7bafd4	$7bafd4	$7bafd4	$ffffff	3	7	0	0	0	0	44	2	0	34	0	0	NC	y:1:0000
-41	Pittsburgh	PITT	14	0	1	0	$003594	$003594	$ffb81c	$ffffff	7	6	0	0	0	0	38	27	0	77	1	0	PA	y:1:0000
-42	Syracuse	SYR	14	0	1	0	$d44500	$d44500	$00053d	$000000	6	5	0	0	0	2	40	65	0	-1	0	0	NY	y:1:0000
-43	Virginia	UVA	14	0	1	0	$232d4b	$232d4b	$ffffff	$f84c1e	6	1	0	0	0	0	43	1	0	44	1	0	VA	y:1:0000
-44	Virginia Tech	VT	14	0	1	0	$630031	$630031	$ff6600	$cf4420	5	2	0	0	0	0	38	1	0	43	0	0	VA	y:1:0000
-45	Wake Forest	WAKE	14	0	1	0	$000000	$000000	$ffd700	$ffffff	4	8	0	0	0	0	44	1	0	40	1	0	NC	y:1:0000
-46	Cincinnati	CIN	4	0	1	0	$000000	$000000	$000000	$	7	5	0	0	0	0	42	14	0	109	0	0	OH	y:1:0001
-47	East Carolina	ECU	3	0	1	0	$4b1869	$4b1869	$ffd700	$fdc82f	4	7	0	0	0	0	50	0	0	-1	0	0	NC	y:1:0000
-48	Houston	UH	4	0	1	0	$c8102e	$c8102e	$ffffff	$ffffff	3	8	0	0	0	0	51	0	0	89	0	0	TX	y:1:0000
-49	Memphis	MEM	3	0	1	0	$003087	$003087	$003087	$ffffff	5	8	0	0	0	0	46	1	0	-1	0	0	TN	y:1:0000
-50	Navy	NAVY	3	0	1	0	$00205b	$00205b	$c5b783	$ffffff	6	2	0	0	0	0	43	13	0	96	2	Military	MD	y:1:0000
-51	SMU	SMU	3	0	1	0	$e41c38	$e41c38	$ffffff	$0033a0	2	8	0	0	0	0	31	1	0	63	0	Religious	TX	y:1:0000
-52	USF	USF	3	0	1	0	$006747	$006747	$006747	$ffffff	1	5	0	0	0	0	50	0	0	56	0	0	FL	y:1:0000
-53	Temple	TEM	3	0	1	0	$9d2235	$9d2235	$ffffff	$ffffff	4	2	0	0	0	0	47	15	0	-1	1	0	PA	y:1:0000
-54	Tulane	TULN	3	0	1	0	$006747	$006747	$00a3e0	$418fde	6	8	0	0	0	0	50	0	0	144	2	0	LA	y:1:0000
-55	Tulsa	TLSA	3	0	1	0	$003594	$003594	$ffd700	$c8102e	2	6	0	0	0	0	35	1	0	-1	0	Religious	OK	y:1:0000
-56	UCF	UCF	4	0	1	0	$000000	$000000	$ffffff	$ba9b37	6	7	0	0	0	0	50	0	0	52	0	0	FL	y:1:0000
-57	Baylor	BU	4	0	1	0	$154734	$154734	$fdb913	$fecb00	6	7	0	0	0	0	43	0	0	63	0	Religious	TX	y:1:0001
-58	Iowa State	ISU	4	0	1	0	$981e32	$981e32	$ffc425	$f1be48	7	2	0	0	0	0	36	29	0	69	0	0	IA	y:1:0010
-59	Kansas	KU	4	0	1	0	$0051ba	$0051ba	$e8000d	$e8000d	1	8	0	0	0	0	36	15	0	60	0	0	KS	y:1:0000
-60	Kansas State	KSU	4	0	1	0	$512888	$512888	$ffffff	$ffffff	6	6	0	0	0	0	36	15	0	59	0	0	KS	y:1:0000
+uid name tla conference division active starting colhelmet colshirt colpants coltertiary defense offense wins losses ties roof rainfall snowfall helmet rival academics type state reputation
+32 Boston C. BC 4 0 1 0 $003366 $003366 $ffd700 $ffffff 3 1 0 0 0 0 40 89 0 33 1 0 MA y:1:0000
+33 Clemson CLEM 14 0 1 0 $f56600 $f56600 $ffffff $522d80 7 7 0 0 0 0 44 2 0 148 0 0 SC y:1:1110
+34 Duke DUKE 14 0 1 0 $003087 $003087 $ffffff $ffffff 6 7 0 0 0 0 44 2 0 40 2 0 NC y:1:0000
+35 Florida S. FSU 14 0 1 0 $782f40 $782f40 $ceb888 $ceb888 7 8 0 0 0 0 50 0 0 38 0 0 FL y:1:0000
+36 Georgia T. GT 14 0 1 0 $b3a369 $b3a369 $ffffff $000000 4 1 0 0 0 0 51 1 0 142 1 0 GA y:1:0000
+37 Louisville LOU 14 0 1 0 $c8102e $c8102e $000000 $ffffff 8 4 0 0 0 0 0 0 0 143 0 0 KY y:1:0000
+38 Miami F. MIA 14 0 1 0 $f47321 $f47321 $ffffff $005030 5 3 0 0 0 0 59 0 0 35 0 0 FL y:1:0000
+39 N.C. S. NCSU 14 0 1 0 $cc0000 $cc0000 $ffffff $000000 8 3 0 0 0 0 44 2 0 40 0 0 NC y:1:0000
+40 N. Carolina UNC 14 0 1 0 $7bafd4 $7bafd4 $7bafd4 $ffffff 3 7 0 0 0 0 44 2 0 34 0 0 NC y:1:0000
+41 Pittsburgh PITT 14 0 1 0 $003594 $003594 $ffb81c $ffffff 7 6 0 0 0 0 38 27 0 77 1 0 PA y:1:0000
+42 Syracuse SYR 14 0 1 0 $d44500 $d44500 $00053d $000000 6 5 0 0 0 2 40 65 0 -1 0 0 NY y:1:0000
+43 Virginia UVA 14 0 1 0 $232d4b $232d4b $ffffff $f84c1e 6 1 0 0 0 0 43 1 0 44 1 0 VA y:1:0000
+44 Virginia T. VT 14 0 1 0 $630031 $630031 $ff6600 $cf4420 5 2 0 0 0 0 38 1 0 43 0 0 VA y:1:0000
+45 Wake F. WAKE 14 0 1 0 $000000 $000000 $ffd700 $ffffff 4 8 0 0 0 0 44 1 0 40 1 0 NC y:1:0000
+46 Cincinnati CIN 4 0 1 0 $000000 $000000 $000000 $ 7 5 0 0 0 0 42 14 0 109 0 0 OH y:1:0001
+47 E. Carolina ECU 3 0 1 0 $4b1869 $4b1869 $ffd700 $fdc82f 4 7 0 0 0 0 50 0 0 -1 0 0 NC y:1:0000
+48 Houston UH 4 0 1 0 $c8102e $c8102e $ffffff $ffffff 3 8 0 0 0 0 51 0 0 89 0 0 TX y:1:0000
+49 Memphis MEM 3 0 1 0 $003087 $003087 $003087 $ffffff 5 8 0 0 0 0 46 1 0 -1 0 0 TN y:1:0000
+50 Navy NAVY 3 0 1 0 $00205b $00205b $c5b783 $ffffff 6 2 0 0 0 0 43 13 0 96 2 Military MD y:1:0000
+51 SMU SMU 3 0 1 0 $e41c38 $e41c38 $ffffff $0033a0 2 8 0 0 0 0 31 1 0 63 0 Religious TX y:1:0000
+52 S. Florida USF 3 0 1 0 $006747 $006747 $006747 $ffffff 1 5 0 0 0 0 50 0 0 56 0 0 FL y:1:0000
+53 Temple TEM 3 0 1 0 $9d2235 $9d2235 $ffffff $ffffff 4 2 0 0 0 0 47 15 0 -1 1 0 PA y:1:0000
+54 Tulane TULN 3 0 1 0 $006747 $006747 $00a3e0 $418fde 6 8 0 0 0 0 50 0 0 144 2 0 LA y:1:0000
+55 Tulsa TLSA 3 0 1 0 $003594 $003594 $ffd700 $c8102e 2 6 0 0 0 0 35 1 0 -1 0 Religious OK y:1:0000
+56 C. Florida UCF 4 0 1 0 $000000 $000000 $ffffff $ba9b37 6 7 0 0 0 0 50 0 0 52 0 0 FL y:1:0000
+57 Waco BU 4 0 1 0 $154734 $154734 $fdb913 $fecb00 6 7 0 0 0 0 43 0 0 63 0 Religious TX y:1:0001
+58 Iowa S. ISU 4 0 1 0 $981e32 $981e32 $ffc425 $f1be48 7 2 0 0 0 0 36 29 0 69 0 0 IA y:1:0010
+59 Kansas KU 4 0 1 0 $0051ba $0051ba $e8000d $e8000d 1 8 0 0 0 0 36 15 0 60 0 0 KS y:1:0000
+60 Kansas S. KSU 4 0 1 0 $512888 $512888 $ffffff $ffffff 6 6 0 0 0 0 36 15 0 59 0 0 KS y:1:0000
 61	Oklahoma	OK.	4	0	1	0	$cc0000	$cc0000	$ffffff	$ffffff	4	7	0	0	0	0	33	4	0	64	0	0	OK	y:1:1110
 62	Oklahoma S.	OKS	4	0	1	0	$ffd700	$ffd700	$ffffff	$000000	4	6	0	0	0	0	34	4	0	61	0	0	OK	y:1:0001
 63	Ft. Worth	FTW	4	0	1	0	$0066cc	$0066cc	$0066cc	$ffffff	6	10	0	0	0	0	31	1	0	57	0	Religious	TX	y:1:0000

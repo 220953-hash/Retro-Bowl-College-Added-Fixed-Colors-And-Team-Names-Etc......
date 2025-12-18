@@ -1,5 +1,5 @@
 uid	name	tla	conference	division	active	starting	colhelmet	colshirt	colpants	coltertiary	defense	offense	wins	losses	ties	roof	rainfall	snowfall	helmet	rival	academics	type	state	reputation
-32	Boston C.	B.C	14	0	1	0	$ffd700	$cc0000	$ffd700	$ffffff	3	1	0	0	0	0	40	89	0	33	1	0	MA	y:1:0000
+32	Boston T.	B.C	14	0	1	0	$ffd700	$cc0000	$ffd700	$ffffff	3	1	0	0	0	0	40	89	0	33	1	0	MA	y:1:0000
 33	Clemson	CLM	14	0	1	0	$ffa800	$ffa800	$ffffff	$ffffff	7	7	0	0	0	0	44	2	0	148	0	0	SC	y:1:1110
 34	Durham	DUR	14	0	1	0	$6666ff	$6666ff	$6666ff	$ffffff	6	7	0	0	0	0	44	2	0	40	2	0	NC	y:1:0000
 35	Florida S.	FLS	14	0	1	0	$ffd700	$990000	$ffd700	$ceb888	7	8	0	0	0	0	50	0	0	38	0	0	FL	y:1:0000
